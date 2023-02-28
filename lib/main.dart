@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(
       MaterialApp(
-          title: "Aplikasi Flutter",
+          title: "Aplikasi",
           home: Scaffold(
             appBar: AppBar(title: Text('Aplikasi Flutter'),),
             body: Material(
